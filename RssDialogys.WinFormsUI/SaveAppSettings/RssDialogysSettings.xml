@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LeoWhy>
+  <Settings>
+    <id>1</id>
+    <UpdateAfterLoad>False</UpdateAfterLoad>
+    <TimerInterval>20</TimerInterval>
+    <ShowDialogys>False</ShowDialogys>
+    <ShowRssChannel>False</ShowRssChannel>
+    <ShowDataAfterUpdate>False</ShowDataAfterUpdate>
+  </Settings>
+</LeoWhy>
